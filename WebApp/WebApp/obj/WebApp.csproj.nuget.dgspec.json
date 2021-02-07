@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dorel\\source\\repos\\WebApp\\WebApp\\WebApp.csproj": {}
+    "E:\\Software Engineering\\an2sem1\\SOA (lazar)\\repos\\WebApp\\WebApp\\WebApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dorel\\source\\repos\\WebApp\\WebApp\\WebApp.csproj": {
+    "E:\\Software Engineering\\an2sem1\\SOA (lazar)\\repos\\WebApp\\WebApp\\WebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dorel\\source\\repos\\WebApp\\WebApp\\WebApp.csproj",
+        "projectUniqueName": "E:\\Software Engineering\\an2sem1\\SOA (lazar)\\repos\\WebApp\\WebApp\\WebApp.csproj",
         "projectName": "WebApp",
-        "projectPath": "C:\\Users\\Dorel\\source\\repos\\WebApp\\WebApp\\WebApp.csproj",
-        "packagesPath": "C:\\Users\\Dorel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dorel\\source\\repos\\WebApp\\WebApp\\obj\\",
+        "projectPath": "E:\\Software Engineering\\an2sem1\\SOA (lazar)\\repos\\WebApp\\WebApp\\WebApp.csproj",
+        "packagesPath": "C:\\Users\\Le\\.nuget\\packages\\",
+        "outputPath": "E:\\Software Engineering\\an2sem1\\SOA (lazar)\\repos\\WebApp\\WebApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Dorel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Le\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -50,6 +50,10 @@
             "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
               "target": "Package",
               "version": "[1.10.9, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
             }
           },
           "imports": [

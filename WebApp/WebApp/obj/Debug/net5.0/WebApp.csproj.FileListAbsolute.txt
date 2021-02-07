@@ -39,3 +39,45 @@ C:\Users\Dorel\source\repos\WebApp\WebApp\obj\Debug\net5.0\WebApp.pdb
 C:\Users\Dorel\source\repos\WebApp\WebApp\obj\Debug\net5.0\WebApp.genruntimeconfig.cache
 C:\Users\Dorel\source\repos\WebApp\WebApp\obj\Debug\net5.0\WebApp.csproj.CopyComplete
 C:\Users\Dorel\source\repos\WebApp\WebApp\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.Google.dll
+E:\Software Engineering\an2sem1\SOA (lazar)\repos\WebApp\WebApp\bin\Debug\net5.0\appsettings.Development.json
+E:\Software Engineering\an2sem1\SOA (lazar)\repos\WebApp\WebApp\bin\Debug\net5.0\appsettings.json
+E:\Software Engineering\an2sem1\SOA (lazar)\repos\WebApp\WebApp\bin\Debug\net5.0\WebApp.exe
+E:\Software Engineering\an2sem1\SOA (lazar)\repos\WebApp\WebApp\bin\Debug\net5.0\WebApp.deps.json
+E:\Software Engineering\an2sem1\SOA (lazar)\repos\WebApp\WebApp\bin\Debug\net5.0\WebApp.runtimeconfig.json
+E:\Software Engineering\an2sem1\SOA (lazar)\repos\WebApp\WebApp\bin\Debug\net5.0\WebApp.runtimeconfig.dev.json
+E:\Software Engineering\an2sem1\SOA (lazar)\repos\WebApp\WebApp\bin\Debug\net5.0\WebApp.dll
+E:\Software Engineering\an2sem1\SOA (lazar)\repos\WebApp\WebApp\bin\Debug\net5.0\ref\WebApp.dll
+E:\Software Engineering\an2sem1\SOA (lazar)\repos\WebApp\WebApp\bin\Debug\net5.0\WebApp.pdb
+E:\Software Engineering\an2sem1\SOA (lazar)\repos\WebApp\WebApp\bin\Debug\net5.0\WebApp.Views.dll
+E:\Software Engineering\an2sem1\SOA (lazar)\repos\WebApp\WebApp\bin\Debug\net5.0\WebApp.Views.pdb
+E:\Software Engineering\an2sem1\SOA (lazar)\repos\WebApp\WebApp\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.Google.dll
+E:\Software Engineering\an2sem1\SOA (lazar)\repos\WebApp\WebApp\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\Software Engineering\an2sem1\SOA (lazar)\repos\WebApp\WebApp\obj\Debug\net5.0\WebApp.csprojAssemblyReference.cache
+E:\Software Engineering\an2sem1\SOA (lazar)\repos\WebApp\WebApp\obj\Debug\net5.0\WebApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Software Engineering\an2sem1\SOA (lazar)\repos\WebApp\WebApp\obj\Debug\net5.0\WebApp.AssemblyInfoInputs.cache
+E:\Software Engineering\an2sem1\SOA (lazar)\repos\WebApp\WebApp\obj\Debug\net5.0\WebApp.AssemblyInfo.cs
+E:\Software Engineering\an2sem1\SOA (lazar)\repos\WebApp\WebApp\obj\Debug\net5.0\WebApp.csproj.CoreCompileInputs.cache
+E:\Software Engineering\an2sem1\SOA (lazar)\repos\WebApp\WebApp\obj\Debug\net5.0\WebApp.MvcApplicationPartsAssemblyInfo.cache
+E:\Software Engineering\an2sem1\SOA (lazar)\repos\WebApp\WebApp\obj\Debug\net5.0\WebApp.RazorAssemblyInfo.cache
+E:\Software Engineering\an2sem1\SOA (lazar)\repos\WebApp\WebApp\obj\Debug\net5.0\WebApp.RazorAssemblyInfo.cs
+E:\Software Engineering\an2sem1\SOA (lazar)\repos\WebApp\WebApp\obj\Debug\net5.0\staticwebassets\WebApp.StaticWebAssets.Manifest.cache
+E:\Software Engineering\an2sem1\SOA (lazar)\repos\WebApp\WebApp\obj\Debug\net5.0\staticwebassets\WebApp.StaticWebAssets.xml
+E:\Software Engineering\an2sem1\SOA (lazar)\repos\WebApp\WebApp\obj\Debug\net5.0\scopedcss\bundle\WebApp.styles.css
+E:\Software Engineering\an2sem1\SOA (lazar)\repos\WebApp\WebApp\obj\Debug\net5.0\WebApp.TagHelpers.input.cache
+E:\Software Engineering\an2sem1\SOA (lazar)\repos\WebApp\WebApp\obj\Debug\net5.0\WebApp.TagHelpers.output.cache
+E:\Software Engineering\an2sem1\SOA (lazar)\repos\WebApp\WebApp\obj\Debug\net5.0\WebApp.RazorCoreGenerate.cache
+E:\Software Engineering\an2sem1\SOA (lazar)\repos\WebApp\WebApp\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+E:\Software Engineering\an2sem1\SOA (lazar)\repos\WebApp\WebApp\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\Software Engineering\an2sem1\SOA (lazar)\repos\WebApp\WebApp\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+E:\Software Engineering\an2sem1\SOA (lazar)\repos\WebApp\WebApp\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\Software Engineering\an2sem1\SOA (lazar)\repos\WebApp\WebApp\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Software Engineering\an2sem1\SOA (lazar)\repos\WebApp\WebApp\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+E:\Software Engineering\an2sem1\SOA (lazar)\repos\WebApp\WebApp\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+E:\Software Engineering\an2sem1\SOA (lazar)\repos\WebApp\WebApp\obj\Debug\net5.0\WebApp.RazorTargetAssemblyInfo.cache
+E:\Software Engineering\an2sem1\SOA (lazar)\repos\WebApp\WebApp\obj\Debug\net5.0\WebApp.RazorTargetAssemblyInfo.cs
+E:\Software Engineering\an2sem1\SOA (lazar)\repos\WebApp\WebApp\obj\Debug\net5.0\WebApp.Views.pdb
+E:\Software Engineering\an2sem1\SOA (lazar)\repos\WebApp\WebApp\obj\Debug\net5.0\WebApp.csproj.CopyComplete
+E:\Software Engineering\an2sem1\SOA (lazar)\repos\WebApp\WebApp\obj\Debug\net5.0\WebApp.dll
+E:\Software Engineering\an2sem1\SOA (lazar)\repos\WebApp\WebApp\obj\Debug\net5.0\ref\WebApp.dll
+E:\Software Engineering\an2sem1\SOA (lazar)\repos\WebApp\WebApp\obj\Debug\net5.0\WebApp.pdb
+E:\Software Engineering\an2sem1\SOA (lazar)\repos\WebApp\WebApp\obj\Debug\net5.0\WebApp.genruntimeconfig.cache

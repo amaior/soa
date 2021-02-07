@@ -1,10 +1,12 @@
 ﻿using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
+using Newtonsoft.Json;
 using System;
 using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq;
+using System.Net.Http;
 using System.Threading.Tasks;
 using WebApp.Models;
 
@@ -21,14 +23,25 @@ public class HomeController : Controller
     }
 
         [AllowAnonymous]
-        public IActionResult Index()
+        public async Task<IActionResult> Index()
         {
             return View();
+            /*var client = new HttpClient();
+            var responseString = await client.GetStringAsync("https://localhost:44308/WeatherForecast");
+            var response = JsonConvert.DeserializeObject<WeatherForecast>(responseString);
+            return View(responseString);*/
         }
-
-        public IActionResult Privacy()
+        //public async IActionResult Privacy()
+        //{
+        //    return View();
+         //}
+         [AllowAnonymous]
+        public async Task<IActionResult> Privacy()
         {
-            return View();
+            var client = new HttpClient();
+            var responseString = await client.GetStringAsync("https://localhost:44308/WeatherForecast");
+            var response = JsonConvert.DeserializeObject<WeatherForecast>(responseString);
+            return View(responseString) ;
         }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
