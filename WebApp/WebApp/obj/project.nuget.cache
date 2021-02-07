@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "kjYL7WkoTPgRzoCiEnvRHqZacydpxVd2sc9bSJQqSuxePNTYb/ubJ/obMXS9li0sUcnAO4Si0HZmTCWCzSScTg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dorel\\source\\repos\\WebApp\\WebApp\\WebApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dorel\\.nuget\\packages\\microsoft.aspnetcore.authentication.google\\5.0.2\\microsoft.aspnetcore.authentication.google.5.0.2.nupkg.sha512",
+    "C:\\Users\\Dorel\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}
